@@ -1,2 +1,15 @@
-/examen2_Soto/
+# Ignorar archivos de entorno con credenciales
 .env
+**/.env
+
+# Ignorar artefactos de compilación
+examen2_Soto/target/
+
+# Ignorar archivos de Eclipse
+**/.classpath
+**/.project
+**/.settings/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
